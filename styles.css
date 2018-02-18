@@ -1,0 +1,30 @@
+/* add your CSS here */
+.label {
+  font-weight: bold;
+}
+.borderaround{
+  border-width: thin;
+  border-style: solid;
+  border-color: grey;
+  max-width: 300px;
+  padding: 10px;
+  border-radius: 15px;
+}
+.bordershadow{
+  border-width: thin;
+  border-style: solid;
+  width: 300px;
+  border-color: grey;
+  box-shadow: 10px 10px 5px grey;
+  padding: 10px;
+  border-radius: 15px;
+}
+.nobullet{
+  list-style-type: none;
+  list-style-position:outside;
+  padding-left:0;
+}
+img {
+  padding-bottom:20px;
+  text-align: center;
+}
